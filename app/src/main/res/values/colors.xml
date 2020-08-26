@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme1  -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Theme 3 -->
+    <color name="colorPrimaryAppthem3">#6200EE</color>
+    <color name="colorPrimaryDarkAppthem3">#3700B3</color>
+    <color name="colorAccentAppthem3">#03DAC5</color>
+
+    <!-- Theme 2  -->
+    <color name="colorPrimaryAppthem2">#2196F3</color>
+    <color name="colorPrimaryDarkAppthem2">#197602</color>
+    <color name="colorAccentAppthem2">#FF5252</color>
+    <color name="colorTextPrimary">#21212f</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBoardingIndicator">#72BCF7</color>
+
+    <!-- Theme 4 -->
+    <color name="colorPrimaryApptheme4">#008577</color>
+    <color name="colorPrimaryDarkApptheme4">#212121</color>
+    <color name="colorAccentApptheme4">#D81860</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkSemiTransparent">#C6000000</color>
+</resources>

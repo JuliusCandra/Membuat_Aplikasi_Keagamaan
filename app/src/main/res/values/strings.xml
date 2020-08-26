@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Pengingat</string>
+    <string name="slider">Slider</string>
+    <string name="gereja">Gereja</string>
+    <string name="search">search</string>
+    <string name="gambarwhatssapp">gambarWhatssapp</string>
+    <string name="kamupunyaphoto">KamuPunyaPhoto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.MaterialComponents.Light.NoActionBar" >
+        <item name="colorPrimary">@color/colorPrimaryAppthem2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkAppthem2</item>
+        <item name="colorAccent">@color/colorAccentAppthem2</item>
+    </style>
+
+    <style name="AppTheme3" parent="Theme.MaterialComponents.Light.NoActionBar" >
+        <item name="colorPrimary">@color/colorPrimaryAppthem3</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkAppthem3</item>
+        <item name="colorAccent">@color/colorAccentAppthem3</item>
+    </style>
+
+    <style name="AppTheme4" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryApptheme4</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkApptheme4</item>
+        <item name="colorAccent">@color/colorAccentApptheme4</item>
+    </style>
+    
+    <style name="Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="fontFamily">sans-serif-black</item>
+
+    </style>
+
+
+
+</resources>
